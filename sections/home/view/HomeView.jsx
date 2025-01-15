@@ -1,5 +1,5 @@
 import React, { Suspense } from "react";
-import css from "@/styles/Home.module.css";
+import css from "../../styles/Home.module.css";
 import PostGenerator from "@/components/Post/PostGenerator";
 import Posts from "@/components/Post/Posts";
 import PopularTrends from "@/components/PopularTrends";

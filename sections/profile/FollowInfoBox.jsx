@@ -1,6 +1,6 @@
 import Box from "@/components/Box";
 import React from "react";
-import css from "@/styles/FollowInfoBox.module.css";
+import css from "../../styles/FollowInfoBox.module.css";
 import { Alert, Skeleton, Space, Typography } from "antd";
 import { getAllFollowersAndFollowings } from "@/actions/user";
 import { useQuery } from "@tanstack/react-query";

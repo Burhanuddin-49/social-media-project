@@ -1,5 +1,5 @@
 import React from "react";
-import css from "@/styles/homeLayout.module.css";
+import css from "../../styles/homeLayout.module.css";
 import Header from "@/components/Header";
 import ThemeProvider from "@/lib/ThemeProvider";
 import Box from "@/components/Box";

@@ -1,5 +1,5 @@
 import React from "react";
-import css from "@/styles/PopularTrends.module.css";
+import css from "../../styles/PopularTrends.module.css";
 import { Alert, Avatar, Flex, Typography } from "antd";
 import { mockTrends } from "@/mock/mockTrends";
 import Iconify from "./Iconify";

@@ -1,5 +1,5 @@
 import React from "react";
-import css from "@/styles/authLayout.module.css";
+import css from "../../styles/authLayout.module.css";
 import Image from "next/image";
 export const metadata = {
   title: "Authentication",

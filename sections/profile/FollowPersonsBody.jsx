@@ -1,5 +1,5 @@
 import React from "react";
-import css from "@/styles/FollowPersonsBody.module.css";
+import css from "../../styles/FollowPersonsBody.module.css";
 import { Alert, Skeleton, Typography } from "antd";
 import UserBox from "@/components/UserBox";
 import { useQuery } from "@tanstack/react-query";

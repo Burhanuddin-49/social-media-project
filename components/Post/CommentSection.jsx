@@ -1,7 +1,7 @@
 "use client";
 import { Avatar, Button, Flex, Typography } from "antd";
 import React, { useContext, useEffect, useRef, useState } from "react";
-import css from "@/styles/Post.module.css";
+import css from "../../styles/Post.module.css";
 import Box from "../Box";
 import { SettingsContext } from "@/context/settings/settings-context";
 import cx from "classnames";

@@ -1,5 +1,5 @@
 import React from "react";
-import css from "@/styles/ProfileView.module.css";
+import css from "../../styles/ProfileView.module.css";
 import FollowButton from "./FollowButton";
 import FollowInfoBox from "./FollowInfoBox";
 import FriendsSuggestion from "@/components/FriendsSuggestion";

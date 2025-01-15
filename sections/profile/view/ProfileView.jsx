@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import css from "@/styles/ProfileView.module.css";
+import css from "../../styles/ProfileView.module.css";
 import ProfileHead from "../ProfileHead";
 import { useQuery } from "@tanstack/react-query";
 import { getUser } from "@/actions/user";

@@ -1,6 +1,6 @@
 "use client";
 import React, { useRef, useState } from "react";
-import css from "@/styles/PostGenerator.module.css";
+import css from "../../styles/PostGenerator.module.css";
 import Box from "../Box";
 import { Avatar, Button, Flex, Image, Input, Spin, Typography } from "antd";
 import Iconify from "../Iconify";

@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useRef, useState } from "react";
-import css from "@/styles/ProfileHead.module.css";
+import css from "../../styles/ProfileHead.module.css";
 import { Button, Flex, Image, Skeleton, Spin, Tabs } from "antd";
 import Box from "@/components/Box";
 import { Typography } from "antd";

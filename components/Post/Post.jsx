@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import css from "@/styles/Post.module.css";
+import css from "../../styles/Post.module.css";
 import Box from "../Box";
 import {
   Avatar,
