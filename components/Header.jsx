@@ -1,5 +1,5 @@
 import React from "react";
-import css from "../../styles/Header.module.css";
+import css from "../styles/Header.module.css";
 import { Flex } from "antd";
 import Image from "next/image";
 import { UserButton } from "@clerk/nextjs";

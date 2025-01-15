@@ -2,7 +2,7 @@ import { ClerkProvider } from "@clerk/nextjs";
 import { Public_Sans } from "next/font/google";
 import StyledComponentsRegistry from "@/lib/AntRegistry";
 import "./globals.css";
-import "../../styles/typography.css";
+import "../styles/typography.css";
 import QueryProvider from "@/lib/QueryProvider";
 
 const publicSans = Public_Sans({
