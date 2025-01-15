@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import css from "../../styles/UserBox.module.css";
+import css from "../styles/UserBox.module.css";
 import Box from "./Box";
 import { Avatar, Button, Flex, Typography } from "antd";
 import { Icon } from "@iconify/react";

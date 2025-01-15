@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Box from "./Box";
-import css from "../../styles/FollowSuggestions.module.css";
+import css from "../styles/FollowSuggestions.module.css";
 import { Alert, Avatar, Flex, Skeleton, Typography } from "antd";
 import UserBox from "./UserBox";
 import {

@@ -1,7 +1,7 @@
 "use client";
 import React, { useCallback, useEffect, useState } from "react";
 import Box from "./Box";
-import css from "../../styles/Sidebar.module.css";
+import css from "../styles/Sidebar.module.css";
 import { sidebarRoutes } from "@/lib/sidebar";
 import { Typography } from "antd";
 import Iconify from "./Iconify";
